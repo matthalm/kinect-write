@@ -24,5 +24,5 @@ pulls hand location at regular intervals and draws dots at those locations; the 
 kinectWrite_demo combines all other sketches and cycles through them
 
 # Source Material
-skeleton_basis and skeleton_color_3D from antoine1000: https://github.com/antoine1000/kinect-skeleton
-openKinect library from Thomas Lengeling https://github.com/ThomasLengeling/KinectPV2 (see also https://github.com/shiffman/OpenKinect-for-Processing)
+* skeleton_basis and skeleton_color_3D from antoine1000: https://github.com/antoine1000/kinect-skeleton
+* openKinect library from Thomas Lengeling https://github.com/ThomasLengeling/KinectPV2 (see also https://github.com/shiffman/OpenKinect-for-Processing)
