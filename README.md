@@ -14,6 +14,8 @@ similar to `kinectWrite2b_lines` but varies stroke weight based on distance betw
 ## kinectWrite3b_speed2
 similar to `kinectWrite2b_lines` but varies stroke color based on distance between points ("speed")
 
+<img src="kinectWrite3b_speed2/screen-3b.png" width="300px">
+
 ## kinectWrite3c_spread
 pulls hand locations at regular intervals, draws dots at location of right hand with varying size and color based on distance between right and left hands
 
